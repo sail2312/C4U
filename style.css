@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.heading-box{
+    background-color: yellow;
+    border-bottom: 1px solid gray;
+}
+
+.heading{
+    display: flex;
+}
+
+.site-logo{
+    width: 60px;
+    margin-left: 30px;
+}
+
+.site-name{
+    color: black;
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.select{
+    margin-left: auto;
+    padding: 18px 40px;
+}
+
+.option{
+    float: left;
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 40px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.link:hover{
+    color: gray;
+}
+
+#religion{
+    scroll-behavior: smooth;
+}
+
+#knowledge{
+    scroll-behavior: smooth;
+}
+
+
+.section2{
+    background-color: #e3e2e7;
+}
+
+.table-heading{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.rows{
+
+}
+
+.table-sr-no{
+    border: 2px solid black;
+    width: 50px;
+}
+
+.table-name{
+    border: 2px solid black;
+    width: 300px;
+}
+
+.column{
+    border: 2px solid black;
+    text-align: center;
+}
+
+.column-name{
+    border: 2px solid black;
+    text-align: center;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.mention{
+    text-decoration: none;
+    text-align: center;
+    color: blue;
+}
+
+.mention:hover{
+    color: red;
+}
